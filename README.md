@@ -1,43 +1,65 @@
-# 🚀 Sales Analytics Project 📊
+# AtliQ-Reports: Sales and Finance Analytics 📊
 
-## 🌟 Overview
+## 🌟 Project Overview
 
-This project showcases a comprehensive **Sales Analytics Dashboard** developed for **AtliQ Hardwares**, a leading company that supplies computer hardware and peripherals to clients worldwide. The goal was to analyze sales performance for the years **2019, 2020, and 2021**, providing actionable insights to support strategic decision-making.
+Atliq Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
 
-### My Role
-I was responsible for **designing and developing the sales reports and dashboards**. I performed thorough **data cleaning, transformation, and modeling** using Excel’s advanced tools, and presented insights to track sales performance, identify trends, and uncover growth opportunities.
+These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
+
+---
+## Project Objectives
+
+This project is focused on achieving the following key objectives:
+
+## Sales Report
+1. **Customer Performance Report:**
+   - Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
+
+2. **Market Performance and Sales Targets Comparison:**
+   - Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
+3. **Top 10 Products with Sales Increase:**
+   - Identify which products had the biggest increase in sales from 2020 to 2021.
+4. **Division Sales Report**:
+   - Create a report showing total revenue in 2020 and 2021 and how much sales grew.
+5. **Top and Bottom 5 Sold Products:**
+   - Identify the top 5 and bottom 5 products sold by quantity.
+6. **New Products in 2021:**
+   - List new products Atliq started selling in 2021.
+7. **Top 5 Sales Countries in 2021:**
+   - Identify the five countries with the highest sales in 2021.
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities.  
+**Importance:** Identify sales patterns, track KPIs, and uncover opportunities for growth.  
+**Role of Reports:**  
+- Determine effective customer discounts.  
+- Facilitate negotiations with consumers.  
+- Identify promising countries for expansion.
+
+## Finance Report  
+1. **Profit and Loss (P&L) Reports by Fiscal Year and Months:**
+   - Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
+
+2. **Profit and Loss (P&L) Reports by Markets:**
+   - Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
+     
+**Purpose:** Evaluate financial performance and support stakeholder decision-making.  
+**Importance:** Aid benchmarking against peers and provide a foundation for budgeting and forecasting.  
+**Role of Reports:**  
+- Align financial planning with strategic goals.  
+- Instill confidence in the organization's financial outlook.  
 
 ---
 
-## ✨ Key Features
+## Lessons Learned
 
-### 📈 Sales Performance Analysis
-- **Net Sales Performance**: Exhaustive analysis of sales trends across three years.
-- **Customer Segmentation**: Insights into sales contributions from top customers and identifying underperforming segments.
-- **Product Trends**: Identification of top-performing and underperforming products, along with new product launches.
-
-### 🌍 Market Performance
-- **🎯 Target Alignment**: Analyzed market performance vs. predefined sales targets to ensure alignment with strategic objectives.
-- **📊 Regional Insights**: Breakdown of sales by country and region, highlighting top contributors and deviations.
-
-### 🚀 Growth Analysis
-- Tracked year-on-year growth across dimensions like division, product, and customer.
-- Identified high-growth areas (e.g., **AQ Mx NB** achieving a **5723.5% growth in 2021**).
-
-### 🏢 Division-Level Reporting
-- Evaluated performance across divisions (N&S, P&A, and PC).
-- Insights into division-wise growth trends, with **PC Division** leading at **413.7% growth**.
-
-### 📊 Interactive Dashboards
-- Filters for region, market, customer, and division to tailor views.
-- Visual summaries that empower stakeholders with dynamic insights.
+Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:
 
 ---
 
-## 🔧 Tools and Techniques Used
-
+## Technical Skills
 This project utilized advanced features of **Microsoft Excel** to deliver a robust and interactive analytics experience:
 
+- **Data Analysis Techniques:** Utilized ETL (Extract, Transform, Load) methodology for processing data efficiently.
 - **Power Query**: For data cleaning and transformation.
 - **Power Pivot**: For data modeling and creating relationships across datasets.
 - **Snowflake Schema**: Designed to connect data tables effectively with a central fact table and multiple dimension tables for easy data retrieval.
@@ -46,19 +68,32 @@ This project utilized advanced features of **Microsoft Excel** to deliver a robu
 - **Conditional Formatting**: Highlighted critical data points for better decision-making.
 
 ---
+## Soft Skills
 
-## 💼 How I Contributed
-
-- **📊 Thorough Analysis**: Conducted an exhaustive analysis of sales data across multiple dimensions, including year, customer, market, product, growth, and division.
-- **🎯 Target Scrutiny**: Ensured strategic alignment by analyzing performance against sales targets.
-- **🔍 In-Depth Insights**: Delivered actionable insights that supported critical sales decisions.
-- **🏗️ Snowflake Schema Design**: Modeled data tables using the Snowflake Schema for a scalable and efficient data structure.
+- **Report Design:** Developed a refined understanding of designing user-centric reports with empathy in mind.
+- **Optimization:** Acquired skills in optimizing report generation through meticulous fine-tuning.
+- **Systematic Approach:** Developed a systematic approach to devising a report-building plan, enhancing efficiency.
 
 ---
 
-## 🙌 Acknowledgments
+## Project Management
 
-This project was developed to support **AtliQ Hardwares** in analyzing its sales performance and identifying opportunities for growth. It highlights the use of advanced Excel techniques and the **Snowflake Schema** to create impactful, data-driven insights.
+- **Strategic Thinking:** Aligned financial planning with strategic goals, contributing to a comprehensive understanding of organizational financial outlook.
+- **Communication:** Improved communication skills by presenting complex financial data in a clear and understandable format.
 
 ---
+
+## Continuous Learning
+
+- **Adaptability:** Embraced new tools and techniques, showcasing adaptability in a dynamic work environment.
+
+---
+
+## Conclusion
+
+This project not only allowed me to apply my technical skills but also provided a platform for continuous learning and improvement. The experience gained is instrumental in my journey as a data professional, and I look forward to applying these skills in future projects.
+
+---
+
+## Report Links
 
