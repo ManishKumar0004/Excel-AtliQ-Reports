@@ -41,12 +41,29 @@ This project is focused on achieving the following key objectives:
 
 2. **Profit and Loss (P&L) Reports by Markets:**
    - Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
+  
+3. **Quarterly Gross Margin Percentage (GM%) by Location:**
+    - Profitability view by geographic area.
      
 **Purpose:** Evaluate financial performance and support stakeholder decision-making.  
 **Importance:** Aid benchmarking against peers and provide a foundation for budgeting and forecasting.  
 **Role of Reports:**  
 - Align financial planning with strategic goals.  
-- Instill confidence in the organization's financial outlook.  
+- Instill confidence in the organization's financial outlook.
+
+## Overall Insights
+- **Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase.
+- **Top 10 Products**: Continued strong performance of key products from 2020 to 2021.
+- **Market Performance vs. Target**: Insights into market performance relative to sales goals.
+- **New Products in 2021**: Successful introduction of new products with strong sales.
+- **Top 5 Countries in 2021**: Identification of leading markets with robust sales figures.
+- **Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments.
+- **Division Level Report**: Impressive growth in the PC division, with substantial revenue increases.
+- **Profit and Loss Reports**: Detailed assessment of financial health across various dimensions.
+- **Profit and Loss Reports by Markets**: Insights into profitability across different regions, informing future strategies.
+- **Gross Margin % by Quarter**: Understanding of regional performance changes, aiding in decision-making.
+
+---
 
 ---
 
