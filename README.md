@@ -65,8 +65,6 @@ This project is focused on achieving the following key objectives:
 
 ---
 
----
-
 ## Lessons Learned
 
 Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:
