@@ -1,6 +1,6 @@
 # AtliQ-Reports: Sales and Finance Analytics 📊
 
-## 🌟 Project Overview
+## 🌟Overview
 
 Atliq Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
 
