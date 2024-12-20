@@ -11,7 +11,7 @@ These intermediaries play a crucial role in connecting Atliq's products with end
 
 This project is focused on achieving the following key objectives:
 
-## Sales Report
+### Sales Report
 1. **Customer Performance Report:**
    - Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
 
@@ -35,7 +35,7 @@ This project is focused on achieving the following key objectives:
 - Facilitate negotiations with consumers.  
 - Identify promising countries for expansion.
 
-## Finance Report  
+### Finance Report  
 1. **Profit and Loss (P&L) Reports by Fiscal Year and Months:**
    - Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
 
@@ -51,7 +51,7 @@ This project is focused on achieving the following key objectives:
 - Align financial planning with strategic goals.  
 - Instill confidence in the organization's financial outlook.
 
-## Overall Insights
+### Overall Insights
 - **Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase.
 - **Top 10 Products**: Continued strong performance of key products from 2020 to 2021.
 - **Market Performance vs. Target**: Insights into market performance relative to sales goals.
@@ -110,7 +110,7 @@ This project not only allowed me to apply my technical skills but also provided 
 
 ---
 
-## Report Links
+## 🔗 Report Links
 - [Sales Analytics Reports](https://github.com/ManishKumar0004/Excel-AtliQ-Reports/tree/main/Sales%20Analytics%20Reports)
 - [Finance Analytics Reports](https://github.com/ManishKumar0004/Excel-AtliQ-Reports/tree/main/Finance%20Analytics%20Reports)
 
