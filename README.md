@@ -114,3 +114,7 @@ This project not only allowed me to apply my technical skills but also provided 
 - [Sales Analytics Reports](https://github.com/ManishKumar0004/Excel-AtliQ-Reports/tree/main/Sales%20Analytics%20Reports)
 - [Finance Analytics Reports](https://github.com/ManishKumar0004/Excel-AtliQ-Reports/tree/main/Finance%20Analytics%20Reports)
 
+## How to Reach Me :
+- [Email](manish9306355@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/mk0004/)
+
